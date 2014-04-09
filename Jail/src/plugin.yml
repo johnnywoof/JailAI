@@ -1,0 +1,8 @@
+name: Jail
+version: 1.0
+main: me.johnnywoof.Jail
+depend: [Citizens]
+commands:
+    spawn:
+        description: Spawn jail guard
+        usage: /spawn
